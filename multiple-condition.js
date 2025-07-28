@@ -26,3 +26,5 @@ const isbcs = true;
 if((Salary>=2500&& hasCar==true)||isbcs==true){
     console.log('ok for marrige');
 }
+
+
